@@ -6,5 +6,5 @@ I ripped this from https://github.com/ck86/main-bower-files and modified it to w
 Install this plugin with the following command:
 
 ```bash
-npm install --save-dev main-package-files
+npm install --save-dev https://github.com/lydongray/main-package-files.git
 ```

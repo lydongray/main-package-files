@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "nested/nest": "*",
+        "simple": "*",
+        "overwritten": "*",
+        "multi": "*",
+        "ignore": "*",
+        "deepPaths": "*",
+        "decoy": "*"
+    },
+    "overrides": {
+        "overwritten": {
+            "main": "another.js"
+        },
+        "ignore": {
+            "ignore": true
+        }
+    }
+}
